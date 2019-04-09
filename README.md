@@ -1,4 +1,4 @@
-**Demo:** <https://X-Style.github.io/>
+**X-Style:** <https://X-Style.github.io/>
 
 > - Username: admin
 > - Password: admin
