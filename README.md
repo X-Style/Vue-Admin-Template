@@ -1,4 +1,5 @@
 **X-Style:** <https://X-Style.github.io/>
+**Demo:** <https://X-Style.github.io/Vue-Admin-Template/#/login>
 
 > - Username: admin
 > - Password: admin
